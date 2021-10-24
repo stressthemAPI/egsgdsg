@@ -1671,7 +1671,7 @@ function InitMain()
 	TextLabel.Size = UDim2.new(1, -20, 1, 0)
 	TextLabel.Font = Enum.Font.SourceSansBold
 	TextLabel.Text = [[
-Scripting by: Racist Dolphin#5199
+Scripting by: 💤Rick💤#0838
 GUI by: SOMEONE WHO WANTS HIS NAME HIDDEN.
 
 To hide/show the GUI press the "P" key on your keyboard.
